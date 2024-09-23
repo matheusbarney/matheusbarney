@@ -21,5 +21,4 @@ I’m a **creative mind** that's always eager to learn new technologies, and gro
 
 ---
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarney&hide=stars)](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
-
+[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarney&hide=stars&theme=cobalt&show_icons=true)]
