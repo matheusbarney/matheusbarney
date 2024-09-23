@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! 👋 I'm Matheus Barney.
+- CS student at Universidade Federal de Pernambuco
+- Reach me at mbmg@cin.ufpe.br
 
-<!--
-**matheusbarney/matheusbarney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 What I’m working on:
+- Full-stack development, primarily front-end projects.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning:
+- Expanding my knowledge in JavaScript frameworks and libraries.
+- Responsive Web Design and UX
+- Data analysis
+  
+🎨 Some of my hobbies:
+- Drawing and illustrating
+- Long walks on the beach
+- Game Dev
+- Quality time with friends
+  
+I’m always eager to learn new technologies, and grow in the world of software development. Feel free to check out my repositories and connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
