@@ -19,6 +19,4 @@
   
 I’m a **creative mind** that's always eager to learn new technologies, and grow in the world of software development. Feel free to check out my repositories and connect with me!
 
----
-
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarney&hide=stars&theme=cobalt&show_icons=true)]
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusbarney&hide=stars&theme=cobalt&show_icons=true)
